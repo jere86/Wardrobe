@@ -1,0 +1,53 @@
+{
+  "wardrobe": [
+    {
+      "id": "1712695867913",
+      "type": "Shirt",
+      "size": "XL",
+      "color": "limegreen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9ETR_VVbmFWQXTgtQVCbpvxJUWPWbC4_7KIIKwDrAQ&s"
+    },
+    {
+      "id": "1712695913119",
+      "type": "Cardigan",
+      "size": "37",
+      "color": "cornflowerblue",
+      "image": "https://www.bigw.com.au/medias/sys_master/images/images/h0d/h03/33595255521310.jpg"
+    },
+    {
+      "id": "1713614256130",
+      "type": "Jeans",
+      "size": "34",
+      "color": "gray",
+      "image": "https://lsco.scene7.com/is/image/lsco/A34940025-front-gstk?fmt=jpeg&qlt=70&resMode=bisharp&fit=crop,1&op_usm=1.25,0.6,8&wid=2000&hei=1800"
+    },
+    {
+      "id": "1713614328187",
+      "type": "Hoodie",
+      "size": "L",
+      "color": "maroon",
+      "image": "https://cdn11.bigcommerce.com/s-jjm7kgkrrc/images/stencil/1280x1280/products/78336/6698130/21814__90309.1704367445.jpg?c=1"
+    },
+    {
+      "id": "1713614373737",
+      "type": "Sneakers",
+      "size": "43",
+      "color": "black",
+      "image": "https://nothingnew.com/cdn/shop/products/1024x1024-NothingNew-HighTop-JetBlack-031122-3.4_a362349d-5e2d-4bd4-8e84-858443b10181_1024x1024.jpg?v=1651850744"
+    },
+    {
+      "id": "1713614715707",
+      "type": "Shorts",
+      "size": "32",
+      "color": "purple",
+      "image": "https://www.bantamsdirect.co.uk/cdn/shop/files/a21d34a96bf0d38375bda678cecaf086.jpg?v=1688564387"
+    },
+    {
+      "id": "1713618152938",
+      "type": "T-Shirt",
+      "size": "XS",
+      "color": "firebrick",
+      "image": "asd"
+    }
+  ]
+}
